@@ -22,3 +22,9 @@
 - file PDF Penugasan berada di "Pert3", paling bawah.
 
 ===========================================
+
+### Tanggal, 30 November 2022
+===========================================
+- Menambahkan Tugas 3 berupa Tabel Analisis MVC
+- file Pdf berada di "Pert7"
+===========================================
